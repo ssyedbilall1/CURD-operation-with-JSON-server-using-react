@@ -1,0 +1,32 @@
+{
+  "inputData": [
+    {
+      "name": "ali",
+      "type": "chart",
+      "currentValue": "76",
+      "totalValue": "6543",
+      "id": 2
+    },
+    {
+      "name": "faaiz",
+      "type": "table",
+      "currentValue": "8765",
+      "totalValue": "5432",
+      "id": 3
+    },
+    {
+      "name": "faaiz2",
+      "type": "table",
+      "currentValue": "87655",
+      "totalValue": "5432",
+      "id": 4
+    },
+    {
+      "name": "faaiz3",
+      "type": "chart",
+      "currentValue": "gdfsdfdsf",
+      "totalValue": "6543",
+      "id": 5
+    }
+  ]
+}
